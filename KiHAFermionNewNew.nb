@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    484239,      13233]
+NotebookDataLength[    484241,      13233]
 NotebookOptionsPosition[    468467,      12978]
-NotebookOutlinePosition[    469380,      13005]
-CellTagsIndexPosition[    469273,      13000]
+NotebookOutlinePosition[    469382,      13005]
+CellTagsIndexPosition[    469275,      13000]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -12978,7 +12978,7 @@ Cell[BoxData[
 },
 Evaluator->"M0",
 WindowSize->{731, 824},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowMargins->{{Automatic, 108}, {Automatic, 0}},
 PrivateNotebookOptions->{"VersionedStylesheet"->{"Default.nb"[8.] -> False}},
 TaggingRules->Association["TryRealOnly" -> False],
 Magnification:>1.25 Inherited,
@@ -12999,7 +12999,7 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"Info-1141e01d-9d1e-453f-919c-d707a6d15fe8", 469089, 12994}
+ {"Info-1141e01d-9d1e-453f-919c-d707a6d15fe8", 469091, 12994}
  }
 *)
 (*NotebookFileOutline
